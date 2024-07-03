@@ -7,4 +7,11 @@
         <shortDescription>Github username</shortDescription>
         <value>trailheadapps</value>
     </labels>
+     <labels>
+        <fullName>BohemianRaphsody</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>BohemianRaphsody</shortDescription>
+        <value>trailheadapps</value>
+    </labels>
 </CustomLabels>
