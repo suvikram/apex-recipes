@@ -2,6 +2,6 @@ global class HelloWorld {
   public String hello() {
     return 'Hello World!';
 //main
-//BACKPROMOTIOJN
+//BackPromotionn example
   }
 }
