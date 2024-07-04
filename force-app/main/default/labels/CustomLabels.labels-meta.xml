@@ -14,4 +14,18 @@
         <shortDescription>Github username</shortDescription>
         <value>trailheadapps</value>
     </labels>
+    <labels>
+        <fullName>Github_username1</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Github username1</shortDescription>
+        <value>trailheadapps1</value>
+    </labels>
+    <labels>
+        <fullName>Github_username2</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Github username2</shortDescription>
+        <value>trailheadapps2</value>
+    </labels>
 </CustomLabels>
