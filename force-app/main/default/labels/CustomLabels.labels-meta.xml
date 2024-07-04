@@ -8,6 +8,7 @@
         <shortDescription>testLabel</shortDescription>
         <value>testLabel</value>
     </labels>
+   
     <labels>
         <fullName>GITame<fullName>
         <language>en_US</language>
@@ -15,6 +16,7 @@
         <shortDescription>Git</shortDescription>
         <value>trailheadapps</value>
     </labels>
+   
     <labels>
         <fullName>Github_username</fullName>
         <language>en_US</language>
@@ -22,13 +24,7 @@
         <shortDescription>Github username</shortDescription>
         <value>trailheadapps</value>
     </labels>
-    <labels>
-        <fullName>Github_username</fullName>
-        <language>en_US</language>
-        <protected>true</protected>
-        <shortDescription>Github username</shortDescription>
-        <value>trailheadapps</value>
-    </labels>
+   
     <labels>
         <fullName>BohemianRaphsody</fullName>
         <language>en_US</language>
@@ -36,4 +32,5 @@
         <shortDescription>BohemianRaphsody</shortDescription>
         <value>trailheadapps</value>
     </labels>
+   
 </CustomLabels>
