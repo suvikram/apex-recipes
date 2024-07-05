@@ -7,6 +7,13 @@
         <shortDescription>Github username2</shortDescription>
         <value>trailheadapps2</value>
     </labels>
+     <labels>
+        <fullName>Github_username3</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Github username2</shortDescription>
+        <value>trailheadapps3</value>
+    </labels>
     <labels>
         <fullName>Github_username</fullName>
         <language>en_US</language>

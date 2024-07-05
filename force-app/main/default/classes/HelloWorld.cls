@@ -1,8 +1,7 @@
 global class HelloWorld {
   public String hello() {
     return 'Hello World!';
-//merger confilct
-//main
-//BackPromotionn567
+//BP22
+//gearsetBug
   }
 }
